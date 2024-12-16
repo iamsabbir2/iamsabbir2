@@ -1,5 +1,5 @@
 # Current Preview
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamsabbir2&theme=transparent&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamsabbir2&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 <!--
 **iamsabbir2/iamsabbir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
