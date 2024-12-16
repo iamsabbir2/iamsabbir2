@@ -1,3 +1,6 @@
+# Who Am I?
+I'm Sabbir Hasan. Undergrade Student in CSE at Mawlana Bhashani Science and Technology University.
+
 # Current Preview
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamsabbir2&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
