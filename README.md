@@ -4,6 +4,9 @@ I'm Sabbir Hasan. Undergrad Student in CSE at Mawlana Bhashani Science and Techn
 # Current Preview
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamsabbir2&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
+
+#What I Know
+https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png
 <!--
 **iamsabbir2/iamsabbir2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
